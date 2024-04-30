@@ -17,7 +17,7 @@ Click on the "Search Weather" tab to search for weather details of a specific ci
 Enter the name of the desired location in the search bar and press Enter.
 Within seconds, the app will fetch and display the weather information according to your input.
 
-To see a live demo of the Weather App 
+To see a live demo of the Weather App click here -  https://singhjaspreet5882.github.io/Weather_App/
 
 Contributions to the Weather App are welcome! If you'd like to contribute, please follow these steps:
 
