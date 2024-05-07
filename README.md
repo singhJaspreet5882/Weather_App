@@ -1,8 +1,8 @@
-Description:
+Description :
 The Weather App is a web application built using HTML, CSS, and JavaScript that allows users to check real-time weather conditions. It utilizes the OpenWeather API to fetch weather data for any location worldwide. 
 Users can view weather information for their current location or search for weather details of any city or country.
 
-How It Works:
+How It Works :
 The Weather App uses the OpenWeather API to make requests for weather data.
 Upon user interaction, such as clicking on the "Your Weather" tab or entering a location in the search bar, the app sends a request to the OpenWeather API.
 The API returns the requested weather information, which is then displayed to the user in a user-friendly format on the app interface.
