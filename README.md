@@ -20,4 +20,8 @@ Within seconds, the app will fetch and display the weather information according
 To see a live demo of the Weather App click here -  https://singhjaspreet5882.github.io/Weather_App/
 
 Contributions to the Weather App are welcome! If you'd like to contribute, please follow these steps:
-
+Fork the repository
+Create a new branch (git checkout -b feature/my-new-feature)
+Make your changes and commit them (git commit -am 'Add some feature')
+Push to the branch (git push origin feature/my-new-feature)
+Create a new Pull Request
